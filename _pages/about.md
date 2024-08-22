@@ -10,11 +10,9 @@ I am currently a third year graduate student from State Key Laboratory of Intell
 
 You can find my CV here: [XiaoyuLin's Curriculum Vitae](../assets/CV_XiaoyuLin.pdf).
 
-This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
-
 Research Interests and Projects
 ======
-My research interests include robotic measurement and inspection, large-scale metrology, and graph-based optimization methodology. The main focus of my research is to achieve the robotic measurement and inspection of large-scale components with scarce 3D features (high-speed train surfaces, aircraft wings, turbine blades, etc.).
+My research interests include robotic measurement and inspection, large-scale metrology, and graph-based optimization methodology. The main focus of my current research is to achieve the robotic measurement and inspection of large-scale components with scarce 3D features (high-speed train surfaces, aircraft wings, turbine blades, etc.). My research is advised by Prof. Xiaojian Zhang from School of Mechanical Science and Engineering, Huazhong University of Science and Technology.
 
 More information about my current research can be found [here](https://kikido16.github.io/publications/).
 
