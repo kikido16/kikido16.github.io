@@ -6,7 +6,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am currently a third year graduate student from State Key Laboratory of Intelligent Manufacturing Equipment and Technology, Huazhong University of Science and Technology, working on the robotic measurement and inspection for large-scale components. I received my B.Eng. in Mechanical Design, Manufacturing and Automation 2022 from Huazhong University of Science and Technology.
+I am currently a third year graduate student from State Key Laboratory of Intelligent Manufacturing Equipment and Technology, Huazhong University of Science and Technology, working on the robotic measurement and inspection for large-scale components. I received my B.Eng. in Mechanical Design, Manufacturing and Automation in 2022 from Huazhong University of Science and Technology.
 
 You can find my CV here: [XiaoyuLin's Curriculum Vitae](../assets/CV_XiaoyuLin.pdf).
 
@@ -15,3 +15,8 @@ This is the front page of a website that is powered by the [Academic Pages templ
 Research Interests and Projects
 ======
 My research interests include robotic measurement and inspection, large-scale metrology, and graph-based optimization methodology. The main focus of my research is to achieve the robotic measurement and inspection of large-scale components with scarce 3D features (high-speed train surfaces, aircraft wings, turbine blades, etc.).
+
+More information about my current research can be found [here](https://kikido16.github.io/publications/).
+
+Academic Papers
+======
