@@ -1,5 +1,5 @@
 ---
-title: "A Tracker Pose Optimization Method for Robotic Measuring System Based on Spatial Distance Constraints"
+title: "An automatic hand-eye calibration system using next-best-view guiding"
 collection: publications
 category: manuscripts
 permalink: /publication/2009-10-01-paper-title-number-1
