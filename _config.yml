@@ -21,7 +21,7 @@ repository               : "kikido16/kikido16.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "profile1.png"
   name             : "Xiaoyu Lin"
   pronouns         : # example: "she/her"  
   bio              : "Huazhong University of Science and Technology"
