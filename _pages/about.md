@@ -25,3 +25,5 @@ Academic Papers
 \[2\] Ziwei Wang, **Xiaoyu Lin**, Wei Chen, Zeyuan Yang, Xiaojian Zhang, Sijie Yan<sup>\*</sup>, Han Ding. "Geometry Distance Constrained Robust Registration Framework of Featureless Point Clouds." *IEEE Transactions on Industrial Informatics* (R\&R).
 
 \[3\] Ziwei Wang, Yifan Yang, Sijie Yan<sup>\*</sup>, **Xiaoyu Lin**, Xiaojian Zhang, Han Ding. "High Accuracy and Robust Robotic Inspection by Constrained Pose Graph Optimization." *IEEE Transactions on Industrial Electronics* (Major revision).
+
+\[4\] Shuming Yi, Sichao Liu, **Xiaoyu Lin**, Sijie Yan<sup>\*</sup>, Xi Vincent Wang, Lihui Wang. "An automatichand-eye calibration system using next-best-view guiding." (Currently working).
