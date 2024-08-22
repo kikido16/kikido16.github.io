@@ -22,13 +22,13 @@ repository               : "kikido16/kikido16.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  name             : "Xiaoyu Lin"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  bio              : #"Short biography for the left-hand sidebar"
+  location         : "Wuhan, China"
+  employer         : "Huazhong University of Science and Technology"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "xiaoyulin1037@gmail.com" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
