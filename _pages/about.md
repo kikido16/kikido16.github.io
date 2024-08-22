@@ -20,4 +20,4 @@ More information about my current research can be found [here](https://kikido16.
 
 Academic Papers
 ======
-\[1\] 
+\[1\] Xiaoyu Lin, Ziwei Wang, Yifan Yang, Bosong Qi, Xiaojian Zhang<sup>*</sup>
