@@ -1,5 +1,5 @@
 ---
-title: "Paper Title Number 2"
+title: "High Accuracy and Robust Robotic Inspection by Constrained Pose Graph Optimization"
 collection: publications
 category: manuscripts
 permalink: /publication/2010-10-01-paper-title-number-2
