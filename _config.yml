@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Your Name / Site Title"
+title                    : "Xiaoyu Lin's Personal Homepage"
 title_separator          : "-"
 name                     : &name "Xiaoyu Lin"
 description              : &description "personal description"
@@ -24,9 +24,9 @@ author:
   avatar           : "profile.png"
   name             : "Xiaoyu Lin"
   pronouns         : # example: "she/her"  
-  bio              : #"Short biography for the left-hand sidebar"
+  bio              : "Huazhong University of Science and Technology"
   location         : "Wuhan, China"
-  employer         : "Huazhong University of Science and Technology"
+  employer         : 
   uri              : # URL
   email            : "xiaoyulin1037@gmail.com" 
 
