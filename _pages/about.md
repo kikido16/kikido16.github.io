@@ -14,5 +14,4 @@ This is the front page of a website that is powered by the [Academic Pages templ
 
 Research Interests and Projects
 ======
-My research interests include robotic measurement and inspection, large-scale metrology, and graph-based optimization methodology.
-
+My research interests include robotic measurement and inspection, large-scale metrology, and graph-based optimization methodology. The main focus of my research is to achieve the robotic measurement and inspection of large-scale components with scarce 3D features (high-speed train surfaces, aircraft wings, turbine blades, etc.).
