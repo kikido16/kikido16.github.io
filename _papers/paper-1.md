@@ -16,6 +16,6 @@ results indicate that our optimization method outperforms two existing methods i
 Highlights
 ======
 -A tracker pose optimization method is proposed for a robotic measuring system based on photogrammetry tracking.
--A pose graph optimization method based on spatial distance constraints is introduced to improve the optimization accuracy.
--A robust coefficient and a damping factor are adopted to simplify the experimental process and stabilize the convergence results.
--Simulations and experiments on high-speed train surfaces are conducted to verify the method’s effectiveness and to demonstrate the superiority of the proposed method over the two existing methods.
+*A pose graph optimization method based on spatial distance constraints is introduced to improve the optimization accuracy.
++A robust coefficient and a damping factor are adopted to simplify the experimental process and stabilize the convergence results.
+
