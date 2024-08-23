@@ -18,7 +18,7 @@ More information about my current research and working papers can be found [here
 
 Academic Papers
 ======
-\[1\] **Xiaoyu Lin**, Ziwei Wang, Yifan Yang, Bosong Qi, Xiaojian Zhang<sup>\*</sup>, Sijie Yan, Han Ding. "A Tracker Pose Optimization Method for Robotic Measuring System Based on Spatial Distance Constraints." *Measurement* (R&R, now under review).
+\[1\] **Xiaoyu Lin**, Ziwei Wang, Yifan Yang, Bosong Qi, Xiaojian Zhang<sup>\*</sup>, Sijie Yan, Han Ding. ["A Tracker Pose Optimization Method for Robotic Measuring System Based on Spatial Distance Constraints."](https://kikido16.github.io/papers/paper-1/) *Measurement* (R&R, now under review).
 
 \[2\] Ziwei Wang, **Xiaoyu Lin**, Wei Chen, Zeyuan Yang, Xiaojian Zhang, Sijie Yan<sup>\*</sup>, Han Ding. "Geometry Distance Constrained Robust Registration Framework of Featureless Point Clouds." *IEEE Transactions on Industrial Informatics* (R&R).
 
