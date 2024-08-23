@@ -13,21 +13,17 @@ Registration of featureless point clouds (FPC) with outliers, noisy data, and pa
 
 Highlights
 ======
-* A tracker pose optimization method is proposed for a robotic measuring system based on photogrammetry tracking.
-* A pose graph optimization method based on spatial distance constraints is introduced to improve the optimization accuracy.
-* A robust coefficient and a damping factor are adopted to simplify the experimental process and stabilize the convergence results.
-* Simulations and experiments on high-speed train surfaces are conducted to verify the method’s effectiveness and to demonstrate the superiority of the proposed method over the two existing methods.
-
-System Overview
-======
-<div align=center>
- <img src="/images/papers/realScene.png" width="500" />
-</div>
+* The upper bound of error landscape symmetric and point-to-plane metrics are derived.
+* A registration framework that incorporates geometry distance constraints (GDC) and weighted enhanced distance (WED) are proposed. 
+* A dynamic slack of constraint (DSC) algorithm is introduced to stabilize the perturbation solution in registration.
 
 Achievements
 ======
 * Achieved the 3D measurement of high-speed train surfaces under multiple tracker base frames (TBFs), and demonstrated that the proposed method could serve as an accurate, flexible, and applicable framework for large-scale metrology scenarios.
 * Reduced the spatial positioning error of the tracker after TBF transformation by more than 50%, compared with the existing best-fit method and the sphere-based method.
+<div align=center>
+ <img src="/images/papers/realScene.png" width="500" />
+</div>
 <div align=center>
 <img src="/images/papers/results.png" width="600" />
 </div>
