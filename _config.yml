@@ -219,7 +219,7 @@ collections:
     output: true
     permalink: /:collection/:path/
   papers:
-    output: false
+    output: true
     permalink: /:collection/:path/
   talks:
     output: true
@@ -272,7 +272,7 @@ defaults:
       layout: single
       author_profile: true
       share: false
-      comments: true
+      comments: false
   # _portfolio
   - scope:
       path: ""
@@ -281,7 +281,7 @@ defaults:
       layout: single
       author_profile: true
       share: false
-      comment: true
+      comment: false
   # _talks
   - scope:
       path: ""
