@@ -25,6 +25,12 @@ System Setup
  <img src="/images/papers/setup.png" width="600" />
  <img src="/images/papers/exp.png" width="600" />
 
+Achievements
+======
+* Achieved the 3D measurement of high-speed train surfaces under multiple tracker base frames (TBFs).
+* Reduced the spatial positioning error of the tracker after TBF transformation by more than 50%, compared with the existing best-fit method and the sphere-based method.
+<img src="/images/papers/ess_compare_avg.png" width="600" />
+
 
 
 
