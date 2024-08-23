@@ -20,3 +20,7 @@ Highlights
 3. A robust coefficient and a damping factor are adopted to simplify the experimental process and stabilize the convergence results.
 4. Simulations and experiments on high-speed train surfaces are conducted to verify the method’s effectiveness and to demonstrate the superiority of the proposed method over the two existing methods.
 
+System Setup
+======
+
+
