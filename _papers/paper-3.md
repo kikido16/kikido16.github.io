@@ -3,14 +3,15 @@ title: "High Accuracy and Robust Robotic Inspection by Constrained Pose Graph Op
 excerpt: "Short description of portfolio item number 2"
 collection: papers
 ---
-Authors: **Xiaoyu Lin**, Ziwei Wang, Yifan Yang, Bosong Qi, Xiaojian Zhang<sup>\*</sup>, Sijie Yan, Han Ding.
+Authors:  Ziwei Wang, Yifan Yang, Sijie Yan<sup>\*</sup>, **Xiaoyu Lin**, Xiaojian Zhang, Han Ding. 
 
-Submitted to _Measurement_ (R&R, now under review).
+Submitted to _IEEE Transactions on Industrial Electronics_ (Major revision).
 
 Abstract
 ======
-  In large-scale metrology (LSM), the transformation of the tracker base frame (TBF) is a predominant method to enlarge the field of view (FOV) of the tracking sensor for full-field 3D measurements. Nevertheless, such a process will introduce cumulative errors and significantly diminish the global point cloud alignment accuracy. To address this problem, we propose a novel tracker pose optimization method for TBF transformation. A pose graph optimization (PGO) model based on spatial distance constraints is implemented to improve the tracker pose accuracy. We also adopt a robust coefficient and a damping factor to simplify the experimental process and stabilize the convergence results. Simulations and experiments on high-speed train surfaces are conducted to validate our method’s accuracy and effectiveness. The
-results indicate that our optimization method outperforms two existing methods in spatial positioning accuracy and point cloud alignment accuracy, which showcases its practical applicability and superiority in manufacturing scenarios.
+Pose graph optimization (PGO) methods are extensively used in robotic inspection (RI) to estimate accurate 3D scanner poses. However, some inaccurate
+pairwise relative measurements decrease the accuracy of PGO. To achieve a robust and accurate RI, we propose
+a new framework called robust constrained pose graph optimization (RCPGO). Specifically, we introduce some additional landmarks to construct a constrained pose graph (CPG) and improve the accuracy of PGO by CPG’s spatial geometry consistency. Furthermore, the symmetric (SYMM) distance function is introduced to construct the objective function of RCPGO, which has a higher D-optimality design metric upper bound and contributes to the robustness and accuracy of RCPGO. To solve the SYMM-RCPGO problem in $SE^{N}_{3}$, we linearize the problem into sequential quadratic programming (SQP) and solve the perturbation of SE3N by the interior-point method. Moreover, a dynamic constraints boundaries algorithm is proposed to prevent inaccurate linearization caused by large perturbation. To assess the effectiveness of SYMM-RCPGO, we conducted comparative evaluations with traditional PGO in both simulated cylinder surfaces and real high-speed train scenes. The results validate the robustness and accuracy of SYMM-RCPGO and find that a few constraints can significantly reduce pose error. 
 
 Highlights
 ======
