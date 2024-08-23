@@ -1,4 +1,4 @@
-【---
+---
 title: "High Accuracy and Robust Robotic Inspection by Constrained Pose Graph Optimization"
 excerpt: "Short description of portfolio item number 2"
 collection: papers
