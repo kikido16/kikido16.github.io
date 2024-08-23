@@ -3,9 +3,8 @@ title: "Geometry Distance Constrained Robust Registration Framework of Featurele
 excerpt: "Ziwei Wang"
 collection: papers
 ---
-Authors: **Xiaoyu Lin**, Ziwei Wang, Yifan Yang, Bosong Qi, Xiaojian Zhang<sup>\*</sup>, Sijie Yan, Han Ding.
-
-Submitted to _Measurement_ (R&R, now under review).
+Authors: Ziwei Wang, **Xiaoyu Lin**, Wei Chen, Zeyuan Yang, Xiaojian Zhang, Sijie Yan<sup>\*</sup>, Han Ding.
+Submitted to _IEEE Transactions on Industrial Informatics_ (R&R).
 
 Abstract
 ======
