@@ -23,6 +23,7 @@ Highlights
 System Setup
 ======
  <img src="/images/papers/setup.png" width="800" />
+ <img src="/images/papers/exp.png" width="800" />
 
 
 
