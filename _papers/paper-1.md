@@ -5,6 +5,9 @@ collection: papers
 ---
 
 Authors: **Xiaoyu Lin**, Ziwei Wang, Yifan Yang, Bosong Qi, Xiaojian Zhang<sup>\*</sup>, Sijie Yan, Han Ding. 
+Submitted to _Measurement_ (R&R, now under review).
 
 Abstract
 ======
+In large-scale metrology (LSM), the transformation of the tracker base frame (TBF) is a predominant method to enlarge the field of view (FOV) of the tracking sensor for full-field 3D measurements. Nevertheless, such a process will introduce cumulative errors and significantly diminish the global point cloud alignment accuracy. To address this problem, we propose a novel tracker pose optimization method for TBF transformation. A pose graph optimization (PGO) model based on spatial distance constraints is implemented to improve the tracker pose accuracy. We also adopt a robust coefficient and a damping factor to simplify the experimental process and stabilize the convergence results. Simulations and experiments on high-speed train surfaces are conducted to validate our method’s accuracy and effectiveness. The
+results indicate that our optimization method outperforms two existing methods in spatial positioning accuracy and point cloud alignment accuracy, which showcases its practical applicability and superiority in manufacturing scenarios.
