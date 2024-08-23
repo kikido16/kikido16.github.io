@@ -1,6 +1,6 @@
 ---
 title: "A Tracker Pose Optimization Method for Robotic Measuring System Based on Spatial Distance Constraints"
-excerpt: "<br/><img src='/images/papers/exps.png' width='800'>"
+excerpt: "<br/><div align=center><img src='/images/papers/exps.png' width='800'></div>"
 collection: papers
 ---
 
