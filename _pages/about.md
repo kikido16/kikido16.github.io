@@ -18,9 +18,9 @@ More information about my current research and working papers can be found [here
 
 Academic Papers
 ======
-\[1\] **Xiaoyu Lin**, Ziwei Wang, Yifan Yang, Bosong Qi, Xiaojian Zhang<sup>\*</sup>, Sijie Yan, Han Ding. "A Tracker Pose Optimization Method for Robotic Measuring System Based on Spatial Distance Constraints." *Measurement* (R\&R, now under review).
+\[1\] **Xiaoyu Lin**, Ziwei Wang, Yifan Yang, Bosong Qi, Xiaojian Zhang<sup>\*</sup>, Sijie Yan, Han Ding. "A Tracker Pose Optimization Method for Robotic Measuring System Based on Spatial Distance Constraints." *Measurement* (R&R, now under review).
 
-\[2\] Ziwei Wang, **Xiaoyu Lin**, Wei Chen, Zeyuan Yang, Xiaojian Zhang, Sijie Yan<sup>\*</sup>, Han Ding. "Geometry Distance Constrained Robust Registration Framework of Featureless Point Clouds." *IEEE Transactions on Industrial Informatics* (R\&R).
+\[2\] Ziwei Wang, **Xiaoyu Lin**, Wei Chen, Zeyuan Yang, Xiaojian Zhang, Sijie Yan<sup>\*</sup>, Han Ding. "Geometry Distance Constrained Robust Registration Framework of Featureless Point Clouds." *IEEE Transactions on Industrial Informatics* (R&R).
 
 \[3\] Ziwei Wang, Yifan Yang, Sijie Yan<sup>\*</sup>, **Xiaoyu Lin**, Xiaojian Zhang, Han Ding. "High Accuracy and Robust Robotic Inspection by Constrained Pose Graph Optimization." *IEEE Transactions on Industrial Electronics* (Major revision).
 
