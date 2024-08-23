@@ -11,7 +11,7 @@ Abstract
 ======
 Registration of featureless point clouds (FPC) with outliers, noisy data, and partial overlaps is intractable in 3D reconstruction. We derive that in some Iterative Closest Point (ICP) variants, such as point-to-plane and symmetric metrics, the upper bounds of their error landscapes are nearly zero in FPC, resulting in slow convergence or local minima. To address the above challenges, we introduce a constrained registration framework, which integrates geometry distance constraints (GDC) and weighted enhanced distance (WED) metric to achieve a robust registration in FPC. Specifically, WED combines point-to-point and pointto-plane metrics, resulting in a steeper error landscape; GDCs constrain the transformation matrix into a feasible subset to escape local minima. Moreover, we introduce a dynamic slack of constraint algorithm (DSC) to improve the stability of the linear perturbation in the constrained registration problem. Simulations and experiments are conducted on some typical featureless objects, including a turbine blade, a cylinder-ruled surface, an outlet guide vane, and an engine rotor, to verify the effectiveness and efficiency of the presented registration framework.
 
-Highlights
+Highlights & Achievements
 ======
 * The upper bound of error landscape symmetric and point-to-plane metrics are derived.
 * A registration framework that incorporates geometry distance constraints (GDC) and weighted enhanced distance (WED) are proposed. 
@@ -19,8 +19,7 @@ Highlights
 
 Achievements
 ======
-* Achieved the 3D measurement of high-speed train surfaces under multiple tracker base frames (TBFs), and demonstrated that the proposed method could serve as an accurate, flexible, and applicable framework for large-scale metrology scenarios.
-* Reduced the spatial positioning error of the tracker after TBF transformation by more than 50%, compared with the existing best-fit method and the sphere-based method.
+* Achieved more accurate point cloud registration for FRC, compared with the existing registration methods for FRC.
 <div align=center>
  <img src="/images/papers/realScene.png" width="500" />
 </div>
