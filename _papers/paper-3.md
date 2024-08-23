@@ -15,8 +15,8 @@ pairwise relative measurements decrease the accuracy of PGO. To achieve a robust
 Highlights
 ======
 * Proposed a symmetric distance function to provide a higher D-optimality design metric upper bound than the traditional PGO.
-* We propose a dynamic constraints boundaries algorithm to avoid inaccurate linearization caused by large perturbations to enhance stability during the optimization procedure.
-* We propose a SYMM-RCPGO framework that achieves more robust and accurate pose estimation than traditional PGO methods.
+* Introduced a dynamic constraints boundaries algorithm to avoid inaccurate linearization caused by large perturbations to enhance stability during the optimization procedure.
+* Proposed a SYMM-RCPGO framework that achieves more robust and accurate pose estimation than traditional PGO methods.
 * Simulations and experiments on high-speed train surfaces are conducted to verify the method’s effectiveness and to demonstrate the superiority of the proposed method over the two existing methods.
 
 System Overview
