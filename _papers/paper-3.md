@@ -9,6 +9,7 @@
         });
     </script>
 </head>
+
 ---
 title: "High Accuracy and Robust Robotic Inspection by Constrained Pose Graph Optimization"
 excerpt: "Short description of portfolio item number 2"
