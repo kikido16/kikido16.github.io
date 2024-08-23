@@ -22,6 +22,6 @@ Highlights
 
 System Setup
 ======
-<br/>(img src='/images/papers/exps.png')
+![setup](/images/papers/exps.png)
 
 
