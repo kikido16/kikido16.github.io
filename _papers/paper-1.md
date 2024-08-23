@@ -23,7 +23,7 @@ Highlights
 System Setup
 ======
 ![setup](/images/papers/setup.png)
- <img src="/images/papers/setup.png" width="200" />
+ <img src="/images/papers/setup.png" width="800" />
 
 
 
