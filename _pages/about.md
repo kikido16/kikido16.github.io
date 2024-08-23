@@ -6,7 +6,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am currently a third year graduate student from State Key Laboratory of Intelligent Manufacturing Equipment and Technology, Huazhong University of Science and Technology, working on the robotic measurement and inspection for large-scale components. I received my B.Eng. in Mechanical Design, Manufacturing and Automation in 2022 from Huazhong University of Science and Technology.
+    I am currently a third year graduate student from State Key Laboratory of Intelligent Manufacturing Equipment and Technology, Huazhong University of Science and Technology, working on the robotic measurement and inspection for large-scale components. I received my B.Eng. in Mechanical Design, Manufacturing and Automation in 2022 from Huazhong University of Science and Technology.
 
 You can find my CV here: [XiaoyuLin's Curriculum Vitae](../assets/CV_XiaoyuLin.pdf).
 
