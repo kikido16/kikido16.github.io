@@ -22,10 +22,7 @@ Highlights
 System Overview
 ======
 <div align=center>
- <img src="/images/papers/setup.png" width="600" />
-</div>
-<div align=center>
- <img src="/images/papers/exp.png" width="600" />
+ <img src="/images/papers/draw.png" width="600" />
 </div>
 
 Achievements
