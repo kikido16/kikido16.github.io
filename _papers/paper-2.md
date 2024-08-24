@@ -1,6 +1,6 @@
 ---
 title: "Geometry Distance Constrained Robust Registration Framework of Featureless Point Clouds"
-excerpt: "Ziwei Wang"
+excerpt: ""
 collection: papers
 ---
 Authors: Ziwei Wang, **Xiaoyu Lin**, Wei Chen, Zeyuan Yang, Xiaojian Zhang, Sijie Yan<sup>\*</sup>, Han Ding.
