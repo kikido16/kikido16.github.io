@@ -1,6 +1,6 @@
 ---
 title: "A Tracker Pose Optimization Method for Robotic Measuring System Based on Spatial Distance Constraints"
-excerpt: "Aiming to obtain more precise tracker poses during the tracker pose base frame transformation process.<br/><img src='/images/papers/exps.png' width='600'>"
+excerpt: "***Aiming to obtain more precise tracker poses during the tracker pose base frame transformation process.***<br/><img src='/images/papers/exps.png' width='600'>"
 collection: papers
 ---
 
