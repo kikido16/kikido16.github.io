@@ -1,6 +1,6 @@
 ---
 title: "Geometry Distance Constrained Robust Registration Framework of Featureless Point Clouds"
-excerpt: "Aiming to achieve more precise and robust point cloud registration between partially-overlapped featureless point clouds. <br/><img src='/images/papers/realscene.png' width='500'>"
+excerpt: "***Aiming to achieve more precise and robust point cloud registration between partially-overlapped featureless point clouds.*** <br/><img src='/images/papers/realScene.png' width='500'>"
 collection: papers
 ---
 Authors: Ziwei Wang, **Xiaoyu Lin**, Wei Chen, Zeyuan Yang, Xiaojian Zhang, Sijie Yan<sup>\*</sup>, Han Ding.
