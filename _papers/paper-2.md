@@ -1,6 +1,6 @@
 ---
 title: "Geometry Distance Constrained Robust Registration Framework of Featureless Point Clouds"
-excerpt: " <img src="/images/papers/realScene.png" width="500" />"
+excerpt: "Aiming to achieve more precise and robust point cloud registration between partially-overlapped featureless point clouds. <br/><img src='/images/papers/realscene.png' width='500'>"
 collection: papers
 ---
 Authors: Ziwei Wang, **Xiaoyu Lin**, Wei Chen, Zeyuan Yang, Xiaojian Zhang, Sijie Yan<sup>\*</sup>, Han Ding.
@@ -17,9 +17,6 @@ Highlights & Achievements
 * Proposed a registration framework that incorporated geometry distance constraints (GDC) and weighted enhanced distance (WED). 
 * Introduced a dynamic slack of constraint (DSC) algorithm to stabilize the perturbation solution in registration.
 * Achieved more accurate point cloud registration for FRC, compared with the existing registration methods for FRC.
-<div align=center>
- <img src="/images/papers/realScene.png" width="500" />
-</div>
 <div align=center>
 <img src="/images/papers/results.png" width="600" />
 </div>
