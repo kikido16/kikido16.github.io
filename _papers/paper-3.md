@@ -1,6 +1,6 @@
 ---
 title: "High Accuracy and Robust Robotic Inspection by Constrained Pose Graph Optimization"
-excerpt: "***Aiming to obtain more precise tracker poses during the tracker pose base frame transformation process.***<br/><img src='/images/papers/system.png' width='600'>"
+excerpt: "***Aiming to achieve the overall optimization of poses obtained from multi-view scanning.***<br/><img src='/images/papers/system.png' width='600'>"
 collection: papers
 ---
 Authors:  Ziwei Wang, Yifan Yang, Sijie Yan<sup>\*</sup>, **Xiaoyu Lin**, Xiaojian Zhang, Han Ding. 
