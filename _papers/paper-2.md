@@ -13,9 +13,9 @@ Registration of featureless point clouds (FPC) with outliers, noisy data, and pa
 
 Highlights & Achievements
 ======
-* The upper bound of error landscape symmetric and point-to-plane metrics are derived.
-* A registration framework that incorporates geometry distance constraints (GDC) and weighted enhanced distance (WED) are proposed. 
-* A dynamic slack of constraint (DSC) algorithm is introduced to stabilize the perturbation solution in registration.
+* Derived the upper bound of error landscape symmetric and point-to-plane metrics.
+* Proposed a registration framework that incorporated geometry distance constraints (GDC) and weighted enhanced distance (WED). 
+* Introduced a dynamic slack of constraint (DSC) algorithm to stabilize the perturbation solution in registration.
 * Achieved more accurate point cloud registration for FRC, compared with the existing registration methods for FRC.
 <div align=center>
  <img src="/images/papers/realScene.png" width="500" />
