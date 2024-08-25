@@ -10,4 +10,3 @@ System Overview
 <div align=center>
  <img src="/images/papers/exp.png" width="600" />
 </div>
-[11](https://youtu.be/amIw_MO6aQk)
