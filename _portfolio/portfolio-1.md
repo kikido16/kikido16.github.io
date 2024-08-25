@@ -5,7 +5,7 @@ collection: portfolio
 ---
 
 System Overview
-======
+---
 <div align=center>
  <img src="/images/activities/cover2022.png" width="900" />
 </div>
