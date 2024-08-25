@@ -17,13 +17,18 @@ The prototype of robot TR:
  <img src="/images/activities/4wis_robot.png" width="500" />
 </div>
 
-Season 2021-2022, team leader
+Season 2021-2022, National First Prize (ranked 3/67)
 ---
 ***Team leader***
 
 Designed the robot R1 (locomotion, actuators, positioning and sensing schemes).
 <div align=center>
  <img src="/images/activities/2022R1.png" width="600" />
+</div>
+
+The main actuators of robot R1 (3-DOF ball shooting module with visual tracking):
+<div align=center>
+ <img src="/images/activities/R1actuators.png" width="600" />
 </div>
 
 <div align=center>
