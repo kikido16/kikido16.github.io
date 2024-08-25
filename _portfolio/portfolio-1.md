@@ -26,6 +26,9 @@ Designed the robot R1 (locomotion, actuators, positioning and sensing schemes).
  <img src="/images/activities/2022R1.png" width="600" />
 </div>
 
+<div align=center>
+ <img src="/images/activities/cover2022.png" width="600" />
+</div>
 [Video Link](https://youtu.be/amIw_MO6aQk)
 
 Season 2022-2024, team supervisor
