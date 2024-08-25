@@ -6,7 +6,7 @@ collection: portfolio
 
 System Overview
 ======
-[![2022](../images/activities/cover2022.png)]({https://youtu.be/amIw_MO6aQk} "2022")
+[![2022](https://github.com/kikido16/kikido16.github.io/blob/master/images/activities/cover2022.png)]({https://youtu.be/amIw_MO6aQk} "2022")
 <div align=center>
  <img src="/images/papers/exp.png" width="600" />
 </div>
