@@ -4,7 +4,7 @@ excerpt: "**The most authoritative and influential Model United Nations activity
 collection: portfolio
 ---
 
-CNMUN-AIPA-2019, Outstanding Delegation
+CNMUN-AIPA-2019, Outstanding Delegation (ranked 2/32)
 ---
 ***Team leader***
 
