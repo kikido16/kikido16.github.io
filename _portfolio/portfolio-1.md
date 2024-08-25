@@ -19,8 +19,11 @@ The prototype of robot TR:
 
 Season 2021-2022, team leader
 ---
+***Team leader***
+
+Designed the robot R1 (locomotion, actuators, positioning and sensing schemes).
 <div align=center>
- <img src="/images/activities/cover2022.png" width="900" />
+ <img src="/images/activities/2022R1.png" width="600" />
 </div>
 
 [Video Link](https://youtu.be/amIw_MO6aQk)
