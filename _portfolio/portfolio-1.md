@@ -59,7 +59,7 @@ Season 2022-2024, National First Prize (ranked top 16/68, 2023; ranked 2/86, 202
 * Facilitated the match preparation process
 
 <div align=center>
- <img src="/images/activities/23_R2.png" width="600" />
+ <img src="/images/activities/23 R2.png" width="600" />
 </div>
 <div align=center>
  <img src="/images/activities/24_R2.png" width="600" />
