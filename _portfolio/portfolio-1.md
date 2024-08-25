@@ -50,5 +50,11 @@ Match video:
 
 [Video Link](https://youtu.be/amIw_MO6aQk)
 
-Season 2022-2024, team supervisor
+Season 2022-2024, National First Prize (ranked top 16/68, 2023; ranked 2/86, 2024)
 ---
+***Team supervisor***
+
+* Trained junior team members
+* Guided the scheme formulation
+* Facilitated the match preparation process
+
