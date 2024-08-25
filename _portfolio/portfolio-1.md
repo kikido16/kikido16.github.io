@@ -1,6 +1,6 @@
 ---
 title: "China University Robot Competition, ABU Robocon （2020-2024）"
-excerpt: "**Aiming to achieve the overall optimization of poses obtained from multi-view scanning.**<br/><img src='/images/papers/system.png' width='600'>"
+excerpt: "**The largest and most competitive robot competition in China.**<br/><img src='/images/activities/2022R1.png' width='600'>"
 collection: portfolio
 ---
 
