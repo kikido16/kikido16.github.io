@@ -7,6 +7,7 @@ collection: portfolio
 Season 2020-2021, National First Prize (ranked top 8/83)
 ---
 ***Core member for robot design***
+
 Designed an independent steering wheel system for the robot TR.
 <div align=center>
  <img src="/images/activities/4wis_platform.png" width="600" />
