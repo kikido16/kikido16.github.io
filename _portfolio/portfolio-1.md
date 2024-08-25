@@ -1,6 +1,6 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+title: "China University Robot Competition, ABU Robocon （2020-2024）"
+excerpt: "**Aiming to achieve the overall optimization of poses obtained from multi-view scanning.**<br/><img src='/images/papers/system.png' width='600'>"
 collection: portfolio
 ---
 
