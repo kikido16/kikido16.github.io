@@ -7,10 +7,10 @@ collection: portfolio
 Season 2020-2021, core member for robot design
 ---
 <div align=center>
- <img src="/images/activities/4wis_platform.png" width="900" />
+ <img src="/images/activities/4wis_platform.png" width="700" />
 </div>
 <div align=center>
- <img src="/images/activities/4wis_robot.png" width="600" />
+ <img src="/images/activities/4wis_robot.png" width="500" />
 </div>
 
 Season 2021-2022, team leader
