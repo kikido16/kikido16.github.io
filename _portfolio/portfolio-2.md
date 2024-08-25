@@ -4,8 +4,11 @@ excerpt: "**The most authoritative and influential Model United Nations activity
 collection: portfolio
 ---
 
-Season 2020-2021, core member for robot design
+CNMUN-AIPA-2019, Outstanding delegation
 ---
+***Team leader***
+
+Represented the delegation of UK on the topic of "Enhancing the Implementation of Paris Agreement"
 <div align=center>
  <img src="/images/activities/mun.png" width="700" />
 </div>
