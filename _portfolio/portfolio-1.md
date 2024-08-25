@@ -7,7 +7,7 @@ collection: portfolio
 System Overview
 ======
 <div align=center>
- <img src="/images/activities/cover2022.png" width="800" />
+ <img src="/images/activities/cover2022.png" width="900" />
 </div>
 
-[Video Links](https://youtu.be/amIw_MO6aQk)
+[Video Link](https://youtu.be/amIw_MO6aQk)
