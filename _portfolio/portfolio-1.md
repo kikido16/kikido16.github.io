@@ -28,7 +28,7 @@ Designed the robot R1 (locomotion, actuators, positioning and sensing schemes).
 
 A novel differential steering wheel for the omnidirectional mobile platform (removed the wire twining problem of traditional wheels and achieved fast and precise direction adjustment):
 <div align=center>
- <img src="/images/activities/dsw.png" width="600" />
+ <img src="/images/activities/dsw.png" width="800" />
 </div>
 
 [Video Link of the omnidirectional mobile platform](https://youtu.be/WZMFL8WRtLE)
@@ -38,6 +38,12 @@ The main actuators of robot R1 (2-DOF ball shooting module with visual tracking)
  <img src="/images/activities/R1actuators.png" width="600" />
 </div>
 
+A relative positioning module based on odometers and gyroscope:
+<div align=center>
+ <img src="/images/activities/positioning.png" width="600" />
+</div>
+
+Match video:
 <div align=center>
  <img src="/images/activities/cover2022.png" width="600" />
 </div>
