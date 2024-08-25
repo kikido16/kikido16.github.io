@@ -6,8 +6,8 @@ collection: portfolio
 
 System Overview
 ======
-[![Alternate Text]({https://youtu.be/amIw_MO6aQk/0.png})]({https://youtu.be/amIw_MO6aQk} "2022")
+[![Alternate Text](https://youtu.be/amIw_MO6aQk/0.png)](https://youtu.be/amIw_MO6aQk "2022")
 <div align=center>
  <img src="/images/papers/exp.png" width="600" />
 </div>
-![11](https://youtu.be/amIw_MO6aQk)
+[11](https://youtu.be/amIw_MO6aQk)
