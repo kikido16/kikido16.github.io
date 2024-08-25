@@ -4,4 +4,9 @@ excerpt: "**Aiming to achieve the overall optimization of poses obtained from mu
 collection: portfolio
 ---
 
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
+System Overview
+======
+![2021](/images/activities/platform_moving.mp4)
+<div align=center>
+ <img src="/images/papers/exp.png" width="600" />
+</div>
