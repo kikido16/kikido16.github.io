@@ -40,7 +40,7 @@ The main actuators of robot R1 (2-DOF ball shooting module with visual tracking)
 
 A relative positioning module based on odometers and gyroscope:
 <div align=center>
- <img src="/images/activities/positioning.png" width="600" />
+ <img src="/images/activities/positioning.png" width="400" />
 </div>
 
 Match video:
