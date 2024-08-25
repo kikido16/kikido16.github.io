@@ -6,7 +6,7 @@ collection: portfolio
 
 System Overview
 ======
-![2021](/images/activities/platform_moving.mp4)
+[![Alternate Text]({/images/papers/system.png})]({https://youtu.be/amIw_MO6aQk} "2022")
 <div align=center>
  <img src="/images/papers/exp.png" width="600" />
 </div>
