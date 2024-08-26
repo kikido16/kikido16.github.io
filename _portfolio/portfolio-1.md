@@ -31,7 +31,7 @@ A novel differential steering wheel for the omnidirectional mobile platform (rem
  <img src="/images/activities/dsw.png" width="800" />
 </div>
 
-[Video Link of the omnidirectional mobile platform](https://youtu.be/WZMFL8WRtLE)
+[Video Link of the Omnidirectional Mobile Platform](https://youtu.be/WZMFL8WRtLE)
 
 The main actuators of robot R1 (2-DOF ball shooting module with visual tracking):
 <div align=center>
@@ -48,7 +48,7 @@ Match video:
  <img src="/images/activities/cover2022.png" width="600" />
 </div>
 
-[Video Link of the match 2022](https://youtu.be/amIw_MO6aQk)
+[Video Link of the Match 2022](https://youtu.be/amIw_MO6aQk)
 
 Season 2022-2024, National First Prize (ranked top 16/68, 2023; ranked 2/86, 2024)
 ---
@@ -71,5 +71,5 @@ Season 2022-2024, National First Prize (ranked top 16/68, 2023; ranked 2/86, 202
  <img src="/images/activities/23_2.png" width="600" />
 </div>
 
-[Video Link of the match 2024](https://www.bilibili.com/video/BV1HFv9eKEDK/?share_source=copy_web&vd_source=760f6323c6b87f42ea8589f446e8e9ac)
+[Video Link of the Match 2024](https://www.bilibili.com/video/BV1HFv9eKEDK/?share_source=copy_web&vd_source=760f6323c6b87f42ea8589f446e8e9ac)
 
