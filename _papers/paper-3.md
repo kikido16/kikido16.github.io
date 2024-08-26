@@ -16,7 +16,7 @@ Highlights & Achievements
 ======
 * Proposed a symmetric distance function to provide a higher D-optimality design metric upper bound than the traditional PGO.
 * Introduced a dynamic constraints boundaries algorithm to avoid inaccurate linearization caused by large perturbations to enhance stability during the optimization procedure.
-* Proposed a symmetric robust constrained pose graph optimization (SYMM-RCPGO) framework that achieves more robust and accurate pose estimation than traditional PGO methods.
+* Proposed a symmetric robust constrained pose graph optimization (SYMM-RCPGO) framework that achieved more robust and accurate pose estimation than traditional PGO methods.
 
 <div align=center>
  <img src="/images/papers/draw.png" width="600" />
