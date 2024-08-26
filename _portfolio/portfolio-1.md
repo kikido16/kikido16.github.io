@@ -48,7 +48,7 @@ Match video:
  <img src="/images/activities/cover2022.png" width="600" />
 </div>
 
-[Video Link](https://youtu.be/amIw_MO6aQk)
+[Video Link of the match 2022](https://youtu.be/amIw_MO6aQk)
 
 Season 2022-2024, National First Prize (ranked top 16/68, 2023; ranked 2/86, 2024)
 ---
@@ -70,4 +70,5 @@ Season 2022-2024, National First Prize (ranked top 16/68, 2023; ranked 2/86, 202
 <div align=center>
  <img src="/images/activities/23_2.png" width="600" />
 </div>
+[Video Link of the match 2024](https://www.bilibili.com/video/BV1HFv9eKEDK/?share_source=copy_web&vd_source=760f6323c6b87f42ea8589f446e8e9ac)
 
