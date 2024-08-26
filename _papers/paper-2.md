@@ -16,7 +16,7 @@ Highlights & Achievements
 * Derived the upper bound of error landscape symmetric and point-to-plane metrics.
 * Proposed a registration framework that incorporated geometry distance constraints (GDC) and weighted enhanced distance (WED). 
 * Introduced a dynamic slack of constraint (DSC) algorithm to stabilize the perturbation solution in registration.
-* Achieved more accurate point cloud registration for FRC, compared with the existing registration methods for FRC.
+* Achieved more accurate point cloud registration for FPC, compared with the existing registration methods for FPC.
 <div align=center>
 <img src="/images/papers/results.png" width="600" />
 </div>
