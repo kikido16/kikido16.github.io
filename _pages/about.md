@@ -26,4 +26,8 @@ Academic Papers
 
 \[3\] Ziwei Wang, Yifan Yang, Sijie Yan<sup>\*</sup>, **Xiaoyu Lin**, Xiaojian Zhang, Han Ding. ["High Accuracy and Robust Robotic Inspection by Constrained Pose Graph Optimization."](https://kikido16.github.io/papers/paper-3/) *IEEE Transactions on Industrial Electronics* (Major revision).
 
-\[4\] Shuming Yi, Sichao Liu, **Xiaoyu Lin**, Sijie Yan<sup>\*</sup>, Xi Vincent Wang, Lihui Wang. "An automatic hand-eye calibration system using next-best-view guiding." (Currently working).
+\[4\] Bosong Qi, **Xiaoyu Lin**, Ziwei Wang, Yifan Yang, Xiaojian Zhang<sup>\*</sup>, Sijie Yan, Han Ding. "A Simultaneous Calibration Method for A Mobile Robotic Measurement System Based on Mobile-Photogrammetry-Tracking." (Currently working).
+
+\[5\] Shuming Yi, Sichao Liu, **Xiaoyu Lin**, Sijie Yan<sup>\*</sup>, Xi Vincent Wang, Lihui Wang. "An automatic hand-eye calibration system using next-best-view guiding." (Currently working).
+
+
