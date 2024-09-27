@@ -24,7 +24,7 @@ Academic Papers
 
 \[2\] Ziwei Wang, **Xiaoyu Lin**, Wei Chen, Zeyuan Yang, Xiaojian Zhang, Sijie Yan<sup>\*</sup>, Han Ding. ["Geometry Distance Constrained Robust Registration Framework of Featureless Point Clouds."](https://kikido16.github.io/papers/paper-2/) *IEEE Transactions on Industrial Informatics* (R&R, now under review).
 
-\[3\] Ziwei Wang, Yifan Yang, Sijie Yan<sup>\*</sup>, **Xiaoyu Lin**, Xiaojian Zhang, Han Ding. ["High Accuracy and Robust Robotic Inspection by Constrained Pose Graph Optimization."](https://kikido16.github.io/papers/paper-3/) *IEEE Transactions on Industrial Electronics* (Major revision).
+\[3\] Ziwei Wang, Yifan Yang, Sijie Yan<sup>\*</sup>, **Xiaoyu Lin**, Xiaojian Zhang, Han Ding. ["High Accuracy and Robust Robotic Inspection by Constrained Pose Graph Optimization."](https://kikido16.github.io/papers/paper-3/) *IEEE Transactions on Industrial Electronics* (Minor revision).
 
 \[4\] Bosong Qi, **Xiaoyu Lin**, Ziwei Wang, Yifan Yang, Xiaojian Zhang<sup>\*</sup>, Sijie Yan, Han Ding. "A Simultaneous Calibration Method for A Mobile Robotic Measurement System Based on Mobile-Photogrammetry-Tracking." (Currently working).
 
