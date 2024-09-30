@@ -5,7 +5,7 @@ collection: papers
 ---
 Authors:  Ziwei Wang, Yifan Yang, Sijie Yan<sup>\*</sup>, **Xiaoyu Lin**, Xiaojian Zhang, Han Ding. 
 
-Submitted to _IEEE Transactions on Industrial Electronics_ (Major revision).
+Submitted to _IEEE Transactions on Industrial Electronics_ (Minor revision).
 
 Abstract
 ======
