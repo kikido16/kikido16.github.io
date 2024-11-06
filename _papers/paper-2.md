@@ -5,7 +5,7 @@ collection: papers
 ---
 Authors: Ziwei Wang, **Xiaoyu Lin**, Wei Chen, Zeyuan Yang, Xiaojian Zhang, Sijie Yan<sup>\*</sup>, Han Ding.
 
-Submitted to _IEEE Transactions on Industrial Informatics_ (Major revision).
+Submitted to _IEEE Transactions on Industrial Informatics_ (Accept).
 
 Abstract
 ======
