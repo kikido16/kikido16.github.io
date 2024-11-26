@@ -6,7 +6,7 @@ collection: papers
 
 Authors: **Xiaoyu Lin**, Ziwei Wang, Yifan Yang, Bosong Qi, Xiaojian Zhang<sup>\*</sup>, Sijie Yan, Han Ding.
 
-Submitted to _Measurement_ (Minor revision).
+Submitted to _Measurement_ (Accept).
 
 [System demonstration video](https://youtu.be/0FXhDQqRc7o)
 
