@@ -20,13 +20,13 @@ More information about my current research and working papers can be found [here
 
 Academic Papers
 ======
-\[1\] **Xiaoyu Lin**, Ziwei Wang, Yifan Yang, Bosong Qi, Xiaojian Zhang<sup>\*</sup>, Sijie Yan, Han Ding. ["A Tracker Pose Optimization Method for Robotic Measuring System Based on Spatial Distance Constraints."](https://kikido16.github.io/papers/paper-1/) *Measurement* (Minor revision).
+\[1\] **Xiaoyu Lin**, Ziwei Wang, Yifan Yang, Bosong Qi, Xiaojian Zhang<sup>\*</sup>, Sijie Yan, Han Ding. ["A Tracker Pose Optimization Method for Robotic Measuring System Based on Spatial Distance Constraints."](https://kikido16.github.io/papers/paper-1/) *Measurement* (Accept).
 
 \[2\] Ziwei Wang, **Xiaoyu Lin**, Wei Chen, Zeyuan Yang, Xiaojian Zhang, Sijie Yan<sup>\*</sup>, Han Ding. ["Geometry Distance Constrained Robust Registration Framework of Featureless Point Clouds."](https://kikido16.github.io/papers/paper-2/) *IEEE Transactions on Industrial Informatics* (Accept).
 
-\[3\] Ziwei Wang, Yifan Yang, Sijie Yan<sup>\*</sup>, **Xiaoyu Lin**, Xiaojian Zhang, Han Ding. ["High Accuracy and Robust Robotic Inspection by Constrained Pose Graph Optimization."](https://kikido16.github.io/papers/paper-3/) *IEEE Transactions on Industrial Electronics* (Minor revision).
+\[3\] Ziwei Wang, Yifan Yang, Sijie Yan<sup>\*</sup>, **Xiaoyu Lin**, Xiaojian Zhang, Han Ding. ["High Accuracy and Robust Robotic Inspection by Constrained Pose Graph Optimization."](https://kikido16.github.io/papers/paper-3/) *IEEE Transactions on Industrial Electronics* (Minor Revision).
 
-\[4\] Bosong Qi, **Xiaoyu Lin**, Ziwei Wang, Yifan Yang, Xiaojian Zhang<sup>\*</sup>, Sijie Yan, Han Ding. "A Simultaneous Calibration Method for A Mobile Robotic Measurement System Based on Mobile-Photogrammetry-Tracking." (Currently working).
+\[4\] Bosong Qi, **Xiaoyu Lin**, Ziwei Wang, Yifan Yang, Xiaojian Zhang<sup>\*</sup>, Sijie Yan, Han Ding. "A Simultaneous Calibration Method for A Mobile Robotic Measurement System Based on Mobile-Photogrammetry-Tracking." (Under Review).
 
 \[5\] Shuming Yi, Sichao Liu, **Xiaoyu Lin**, Sijie Yan<sup>\*</sup>, Xi Vincent Wang, Lihui Wang. "An automatic hand-eye calibration system using next-best-view guiding." (Currently working).
 
