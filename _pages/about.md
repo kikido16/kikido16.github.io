@@ -20,14 +20,14 @@ More information about my current research and working papers can be found [here
 
 Academic Papers
 ======
-\[1\] **Xiaoyu Lin**, Ziwei Wang, Yifan Yang, Bosong Qi, Xiaojian Zhang<sup>\*</sup>, Sijie Yan, Han Ding. ["A Tracker Pose Optimization Method for Robotic Measuring System Based on Spatial Distance Constraints."](https://kikido16.github.io/papers/paper-1/) *Measurement* (Acceptted).
+\[1\] **Xiaoyu Lin**, Ziwei Wang, Yifan Yang, Bosong Qi, Xiaojian Zhang<sup>\*</sup>, Sijie Yan, Han Ding. ["A Tracker Pose Optimization Method for Robotic Measuring System Based on Spatial Distance Constraints."](https://kikido16.github.io/papers/paper-1/) *Measurement* (Accept).
 
-\[2\] Ziwei Wang, **Xiaoyu Lin**, Wei Chen, Zeyuan Yang, Xiaojian Zhang, Sijie Yan<sup>\*</sup>, Han Ding. ["Geometry Distance Constrained Robust Registration Framework of Featureless Point Clouds."](https://kikido16.github.io/papers/paper-2/) *IEEE Transactions on Industrial Informatics* (Acceptted).
+\[2\] Ziwei Wang, **Xiaoyu Lin**, Wei Chen, Zeyuan Yang, Xiaojian Zhang, Sijie Yan<sup>\*</sup>, Han Ding. ["Geometry Distance Constrained Robust Registration Framework of Featureless Point Clouds."](https://kikido16.github.io/papers/paper-2/) *IEEE Transactions on Industrial Informatics* (Accept).
 
-\[3\] Bosong Qi, **Xiaoyu Lin**, Ziwei Wang, Yifan Yang, Xiaojian Zhang<sup>\*</sup>, Sijie Yan, Han Ding. ["A Robust Simultaneous Calibration Method for Mobile Robotic Measurement System Based on Global-Photogrammetry-Tracking."](https://kikido16.github.io/papers/paper-4/) *IEEE Transactions on Instrumentation & Measurement* (Acceptted).
+\[3\] Bosong Qi, **Xiaoyu Lin**, Ziwei Wang, Yifan Yang, Xiaojian Zhang<sup>\*</sup>, Sijie Yan, Han Ding. ["A Robust Simultaneous Calibration Method for Mobile Robotic Measurement System Based on Global-Photogrammetry-Tracking."](https://kikido16.github.io/papers/paper-4/) *IEEE Transactions on Instrumentation & Measurement* (Accept).
 
-\[4\] Ziwei Wang, Yifan Yang, Sijie Yan<sup>\*</sup>, **Xiaoyu Lin**, Xiaojian Zhang, Han Ding. ["High Accuracy and Robust Robotic Inspection by Constrained Pose Graph Optimization."](https://ieeexplore.ieee.org/document/11063423/) *IEEE Transactions on Industrial Electronics* (Acceptted).
+\[4\] Ziwei Wang, Yifan Yang, Sijie Yan<sup>\*</sup>, **Xiaoyu Lin**, Xiaojian Zhang, Han Ding. ["High Accuracy and Robust Robotic Inspection by Constrained Pose Graph Optimization."](https://ieeexplore.ieee.org/document/11063423/) *IEEE Transactions on Industrial Electronics* (Accept).
 
-\[5\] Shuming Yi, Sichao Liu, **Xiaoyu Lin**, Sijie Yan<sup>\*</sup>, Xi Vincent Wang, Lihui Wang. ["A data-efficient and general-purpose hand–eye calibration method for robotic systems using next best view."] (https://www.sciencedirect.com/science/article/pii/S1474034625003258) *Advanced Engineering Informatics* (Acceptted).
+\[5\] Shuming Yi, Sichao Liu, **Xiaoyu Lin**, Sijie Yan<sup>\*</sup>, Xi Vincent Wang, Lihui Wang. ["A data-efficient and general-purpose hand–eye calibration method for robotic systems using next best view."](https://www.sciencedirect.com/science/article/pii/S1474034625003258) *Advanced Engineering Informatics* (Accept).
 
 
