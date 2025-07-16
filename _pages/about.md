@@ -24,10 +24,10 @@ Academic Papers
 
 \[2\] Ziwei Wang, **Xiaoyu Lin**, Wei Chen, Zeyuan Yang, Xiaojian Zhang, Sijie Yan<sup>\*</sup>, Han Ding. ["Geometry Distance Constrained Robust Registration Framework of Featureless Point Clouds."](https://kikido16.github.io/papers/paper-2/) *IEEE Transactions on Industrial Informatics* (Accept).
 
-\[3\] Ziwei Wang, Yifan Yang, Sijie Yan<sup>\*</sup>, **Xiaoyu Lin**, Xiaojian Zhang, Han Ding. ["High Accuracy and Robust Robotic Inspection by Constrained Pose Graph Optimization."](https://kikido16.github.io/papers/paper-3/) *IEEE Transactions on Industrial Electronics* (Minor Revision).
+\[3\] Bosong Qi, **Xiaoyu Lin**, Ziwei Wang, Yifan Yang, Xiaojian Zhang<sup>\*</sup>, Sijie Yan, Han Ding. ["A Robust Simultaneous Calibration Method for Mobile Robotic Measurement System Based on Global-Photogrammetry-Tracking."](https://kikido16.github.io/papers/paper-4/) * IEEE Transactions on Instrumentation & Measurement* (Accept).
 
-\[4\] Bosong Qi, **Xiaoyu Lin**, Ziwei Wang, Yifan Yang, Xiaojian Zhang<sup>\*</sup>, Sijie Yan, Han Ding. "A Simultaneous Calibration Method for A Mobile Robotic Measurement System Based on Mobile-Photogrammetry-Tracking." (Under Review).
+\[4\] Ziwei Wang, Yifan Yang, Sijie Yan<sup>\*</sup>, **Xiaoyu Lin**, Xiaojian Zhang, Han Ding. ["High Accuracy and Robust Robotic Inspection by Constrained Pose Graph Optimization."](https://kikido16.github.io/papers/paper-3/) *IEEE Transactions on Industrial Electronics* (Accept).
 
-\[5\] Shuming Yi, Sichao Liu, **Xiaoyu Lin**, Sijie Yan<sup>\*</sup>, Xi Vincent Wang, Lihui Wang. "An automatic hand-eye calibration system using next-best-view guiding." (Currently working).
+\[5\] Shuming Yi, Sichao Liu, **Xiaoyu Lin**, Sijie Yan<sup>\*</sup>, Xi Vincent Wang, Lihui Wang. "An automatic hand-eye calibration system using next-best-view guiding." (Currently Accept).
 
 
